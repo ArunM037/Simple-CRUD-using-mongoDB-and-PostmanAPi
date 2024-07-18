@@ -64,7 +64,7 @@ Use Postman to test the following API endpoints:
 ### Update an item by ID
 
 - **URL:** `/api/items/:id`
-- **Method:** `PUT`
+- **Method:** `PATCH`
 - **Body:**
     ```json
     {
